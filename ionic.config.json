@@ -1,0 +1,7 @@
+{
+  "name": "attendanceQR",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
